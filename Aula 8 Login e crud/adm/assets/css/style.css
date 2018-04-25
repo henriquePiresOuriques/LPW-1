@@ -1,0 +1,67 @@
+header {
+	font-size: 50px;
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+
+footer {
+    padding: 1em;
+    color: white;
+    background-color: black;
+    clear: left;
+    text-align: center;
+}
+	
+
+nav {
+    font-size: 18px;
+    float: left;
+    max-width: 160px;
+    margin: 10px;
+    padding: 2em;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+
+}
+   
+nav ul a {
+    text-decoration: none;
+
+}
+
+article {
+    font-size: 18px;
+    margin-left: 170px;
+    margin-right: 170px;
+    padding: 2em;
+    overflow: hidden;
+}
+
+.imagem{
+    max-height: 300px;
+    max-width: 300px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-size: 120%;
+    text-align: center;
+}
+
+#maior{
+    width: 70%;
+    height: 100px;    
+}
+
+a#sair{
+    font-size: 40%;
+}
